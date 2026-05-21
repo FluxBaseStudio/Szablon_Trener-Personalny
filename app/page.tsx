@@ -367,7 +367,7 @@ export default function TrainerLandingPage() {
           <p className="text-neutral-500 text-xs uppercase tracking-wider mt-1">© 2026 Wszelkie prawa zastrzeżone. Projekt wdrożony na infrastrukturze FluxBase.</p>
         </div>
         <div className="flex gap-6 text-sm font-bold uppercase tracking-wider">
-          <span className="text-neutral-400">Pabianice, Polska</span>
+          <span className="text-neutral-400">Warszawa, Polska</span>
           <span className="text-amber-400 hover:underline cursor-pointer">kontakt@razor.fit</span>
         </div>
       </footer>
